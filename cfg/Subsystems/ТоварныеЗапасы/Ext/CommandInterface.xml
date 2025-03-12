@@ -17,6 +17,11 @@
 				<xr:Value name="Role.Продавец">false</xr:Value>
 			</Visibility>
 		</Command>
+		<Command name="Catalog.ЕдиницыИзмерения.StandardCommand.OpenList">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
 		<Command name="Document.ОперацияПоУчетуТоваров.StandardCommand.Create">
 			<Visibility>
 				<xr:Common>true</xr:Common>
@@ -56,6 +61,9 @@
 		<Command name="AccumulationRegister.ТоварныеЗапасы.StandardCommand.OpenList">
 			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
 		</Command>
+		<Command name="Catalog.ЕдиницыИзмерения.StandardCommand.OpenList">
+			<CommandGroup>NavigationPanelOrdinary</CommandGroup>
+		</Command>
 		<Command name="Document.ОперацияПоУчетуТоваров.StandardCommand.Create">
 			<CommandGroup>ActionsPanelCreate</CommandGroup>
 		</Command>
@@ -66,6 +74,9 @@
 			<CommandGroup>ActionsPanelCreate</CommandGroup>
 		</Command>
 		<Command name="Catalog.Склады.StandardCommand.Create">
+			<CommandGroup>ActionsPanelCreate</CommandGroup>
+		</Command>
+		<Command name="Catalog.ЕдиницыИзмерения.StandardCommand.Create">
 			<CommandGroup>ActionsPanelCreate</CommandGroup>
 		</Command>
 	</CommandsOrder>
