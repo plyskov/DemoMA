@@ -21,13 +21,43 @@
 			<ContextMenu name="Наименование_КонтекстноеМеню" id="4"/>
 			<ExtendedTooltip name="НаименованиеExtendedTooltip" id="8"/>
 		</InputField>
-		<CheckBoxField name="ВалютныйУчет" id="5">
-			<DataPath>Объект.ВалютныйУчет</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<CheckBoxType>Auto</CheckBoxType>
-			<ContextMenu name="ВалютныйУчет_КонтекстноеМеню" id="6"/>
-			<ExtendedTooltip name="ВалютныйУчетExtendedTooltip" id="9"/>
-		</CheckBoxField>
+		<UsualGroup name="ГруппаВалютныйУчет" id="13">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Валютный учет</v8:content>
+				</v8:item>
+			</Title>
+			<Group>AlwaysHorizontal</Group>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаВалютныйУчетРасширеннаяПодсказка" id="14"/>
+			<ChildItems>
+				<CheckBoxField name="ВалютныйУчет" id="5">
+					<DataPath>Объект.ВалютныйУчет</DataPath>
+					<EditMode>EnterOnInput</EditMode>
+					<CheckBoxType>Auto</CheckBoxType>
+					<ContextMenu name="ВалютныйУчет_КонтекстноеМеню" id="6"/>
+					<ExtendedTooltip name="ВалютныйУчетExtendedTooltip" id="9"/>
+					<Events>
+						<Event name="OnChange">ВалютныйУчетПриИзменении</Event>
+					</Events>
+				</CheckBoxField>
+				<InputField name="ОсновнаяВалютаУчета" id="10">
+					<DataPath>Объект.ОсновнаяВалютаУчета</DataPath>
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>в валюте</v8:content>
+						</v8:item>
+					</Title>
+					<HorizontalStretch>false</HorizontalStretch>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="ОсновнаяВалютаУчетаКонтекстноеМеню" id="11"/>
+					<ExtendedTooltip name="ОсновнаяВалютаУчетаРасширеннаяПодсказка" id="12"/>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
