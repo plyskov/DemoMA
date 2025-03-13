@@ -65,7 +65,8 @@
 		</Metadata>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента" id="3f834492-7d92-4947-9cdf-ddda5b048c2c" configVersion="d3c72dc963212549a3a4a5e7fbc1476200000000"/>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента.Form" id="3f834492-7d92-4947-9cdf-ddda5b048c2c.0" configVersion="add587d568256a43944214cd70277ee800000000"/>
-		<Metadata name="Catalog.ЕдиницыИзмерения" id="ec87c902-3197-44c8-8a72-8d13da0f312a" configVersion="94799737dcb4044dadb02441270cbce200000000">
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="f7d12928-d74f-4156-95dd-7342aeabc18a" configVersion="2284106ad3671c4d93c7bdd92de5374d00000000"/>
+		<Metadata name="Catalog.ЕдиницыИзмерения" id="ec87c902-3197-44c8-8a72-8d13da0f312a" configVersion="9455cd2fa62ccc47abf830db0c4cb7bc00000000">
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.БазоваяЕдиницаИзмерения" id="59d5714c-a0f6-4dac-8bf4-06197406a0fb"/>
 			<Metadata name="Catalog.ЕдиницыИзмерения.Attribute.Коэффициент" id="884b213a-91dd-4687-9177-9bef7033da79"/>
 		</Metadata>
@@ -128,7 +129,7 @@
 		<Metadata name="Catalog.НастройкиТорговогоОборудования.Form.ФормаЭлемента" id="ea502ab5-d5a0-4fe7-af8a-24fb0da9c61c" configVersion="2e2fd2dcf526684780394874acdf3b9700000000"/>
 		<Metadata name="Catalog.НастройкиТорговогоОборудования.Form.ФормаЭлемента.Form" id="ea502ab5-d5a0-4fe7-af8a-24fb0da9c61c.0" configVersion="6024ff9f6312694d9c953498639757ae00000000"/>
 		<Metadata name="Catalog.НастройкиТорговогоОборудования.Help" id="2c5f6423-60fe-4b43-a81f-376c3a541621.1" configVersion="f67d8bc23f58a34cb5cc43d0d3bafc5100000000"/>
-		<Metadata name="Catalog.Организации" id="8fa0d9d7-c555-441a-a39b-5720ba0b9cfa" configVersion="c890a0e94242ec4994ea3789801e3fb700000000">
+		<Metadata name="Catalog.Организации" id="8fa0d9d7-c555-441a-a39b-5720ba0b9cfa" configVersion="bd0b0879a1b0214c99bae814a3e91e5c00000000">
 			<Metadata name="Catalog.Организации.Attribute.ОсновнаяВалютаУчета" id="4844df2a-6115-4ff5-b9c0-2e96c9f9542b"/>
 			<Metadata name="Catalog.Организации.Attribute.ВалютныйУчет" id="e57f3802-68d0-441d-bde8-353230b7bdc2"/>
 		</Metadata>
@@ -366,7 +367,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="2ce74bf58e6ed540a526a48c83566bd000000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="560a7eaefbe2204da226eb169d17d79300000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="fed865b5d85a2744acebb96163d7915300000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="c2d2bf7fab2a374b83d4c95190e7f4e100000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="82a784eee99022408f0aa1d89d3fa98f00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="0f0c0241cc10534e8d9bf3c63f067d5400000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="8b7c0bd7f7ec554f91be4e63228674ac00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="39c2a05a01f5eb4e9cc7c5b28dcc226f00000000"/>
