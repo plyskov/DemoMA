@@ -367,7 +367,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="69b23cb4b6a13543923c034d876a45b400000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="c4ae2bd02ffe6441b977b60c9cf01a4400000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="44c6b6ab85742345b19c1fcea8deec2400000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="65f0e9e387d03b489e5a655d4bf740eb00000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="75387797b009e84b80803be46592eb1300000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="ff47d53a5cf4f64ea0168a1bc3c30c9100000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="7efb387aaef6fb48a76570cd00033bf300000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="3021a9f9ccb50b429c27ed9e8a06062000000000"/>
@@ -385,6 +385,7 @@
 		<Metadata name="Constant.АдресIMAPСервера" id="c4c43c07-2e0b-4776-8ffe-5f434f6c69b0" configVersion="f2edcf3b99bdf8448e1eaa21d9a1442300000000"/>
 		<Metadata name="Constant.АдресPOP3Сервера" id="c01f49fe-dc21-4239-849e-b387b8814ef4" configVersion="028eb448b1d3f34491c7cf6d0d4b1e8c00000000"/>
 		<Metadata name="Constant.АдресSMTPСервера" id="6631d28a-5469-4f1b-a89f-37482371c56d" configVersion="62e2ea1f92a9174c8379529c235d0db000000000"/>
+		<Metadata name="Constant.БазоваяЕдиницаИзмерения" id="e3f658c7-090f-47e9-8231-71236f622acb" configVersion="7b39b508ae49d3469c482f7b4208629600000000"/>
 		<Metadata name="Constant.ВалютаУчета" id="8a277f36-7f17-4baa-98a3-a9204855a39d" configVersion="7f60c98bf9cffb4aa58e07c778ef14b600000000"/>
 		<Metadata name="Constant.ВоспроизводитьТекстУведомления" id="a273947b-c78b-40fa-9809-5121b7b16ca5" configVersion="2d061d7db044b54a9b1ce5745068d91600000000"/>
 		<Metadata name="Constant.ВыборПровайдераГеопозиционирования" id="ae614e8c-a204-471c-b976-7d1d295ba13b" configVersion="e0645368f639834dbddc78c47fa27d0000000000"/>
