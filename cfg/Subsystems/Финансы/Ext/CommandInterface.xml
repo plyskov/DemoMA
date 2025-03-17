@@ -109,6 +109,11 @@
 				<xr:Value name="Role.Продавец">false</xr:Value>
 			</Visibility>
 		</Command>
+		<Command name="Constant.ОсновнаяВалютаВзаиморасчетов.StandardCommand.Open">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Command>
 	</CommandsVisibility>
 	<CommandsPlacement>
 		<Command name="DocumentJournal.ФинансовыеДокументы.StandardCommand.OpenList">

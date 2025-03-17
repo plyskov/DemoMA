@@ -367,7 +367,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="69b23cb4b6a13543923c034d876a45b400000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="c4ae2bd02ffe6441b977b60c9cf01a4400000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="44c6b6ab85742345b19c1fcea8deec2400000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="9b1fbd8436a32e41a05a41bbb1ce8bb400000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="65f0e9e387d03b489e5a655d4bf740eb00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="ff47d53a5cf4f64ea0168a1bc3c30c9100000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="7efb387aaef6fb48a76570cd00033bf300000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="3021a9f9ccb50b429c27ed9e8a06062000000000"/>
@@ -408,6 +408,7 @@
 		<Metadata name="Constant.ЛогинСервисаПередачиPushУведомлений" id="99d51309-7c77-4d18-9fc3-d3b9a3265779" configVersion="2bb481c46e3d0b45ade3e40664266d2a00000000"/>
 		<Metadata name="Constant.МаркерДоступаHPK" id="0d36129d-aa51-4326-a593-922149eea0b6" configVersion="9e4f9960592c5045b31eadad21450f6600000000"/>
 		<Metadata name="Constant.МаркерДоступаWNS" id="00b9841f-ebf0-45ab-a136-9bcc2fc35480" configVersion="b918dde4329a7c48bde9c5ffe2d78a6a00000000"/>
+		<Metadata name="Constant.ОсновнаяВалютаВзаиморасчетов" id="6642e3b3-fd2e-4c83-b10d-cfe6213f56f0" configVersion="330c1f7f313d21489afee142c490b04600000000"/>
 		<Metadata name="Constant.ОтметкаНаФотоснимкеДата" id="93df0d8f-0dc7-4b72-afb5-532b482d2161" configVersion="fd0dce6ed6e05b48aff8474a8c41e4d500000000"/>
 		<Metadata name="Constant.ОтметкаНаФотоснимкеТекст" id="cec4afb5-1e71-4c1c-8c67-59277bc16787" configVersion="d5d44fbd9108c24b888f047ec5b4007000000000"/>
 		<Metadata name="Constant.ПарольIMAP" id="9bb00ffc-a364-4475-9f06-859d4caae3bf" configVersion="5b334b4e1dd7e64785792dbc3a31f39f00000000"/>
@@ -905,8 +906,8 @@
 		<Metadata name="Subsystem.ТоварныеЗапасы.Subsystem.Характеристики" id="5ac25e71-65d2-41c6-8ee9-28a592600b69" configVersion="6b925cd72ea0d644b9fbd75cf66f2a5e00000000"/>
 		<Metadata name="Subsystem.ТоварныеЗапасы.Subsystem.Характеристики.CommandInterface" id="5ac25e71-65d2-41c6-8ee9-28a592600b69.1" configVersion="f5aae152819a22419f84af7e1a70e5fc00000000"/>
 		<Metadata name="Subsystem.ТоварныеЗапасы.Subsystem.Цены" id="35fe3d5d-53e9-4794-879d-e767e3411adb" configVersion="9aa87388512e88409f083a9bc411788f00000000"/>
-		<Metadata name="Subsystem.Финансы" id="02d4e175-d98d-4f48-89b8-61351535e9d4" configVersion="754cf5fe019cd04892ec23ffc7c2dbd100000000"/>
-		<Metadata name="Subsystem.Финансы.CommandInterface" id="02d4e175-d98d-4f48-89b8-61351535e9d4.1" configVersion="63188572f25696498124350bfe25335400000000"/>
+		<Metadata name="Subsystem.Финансы" id="02d4e175-d98d-4f48-89b8-61351535e9d4" configVersion="c71638d2c8e7b44e9aa6619c3f8c91d600000000"/>
+		<Metadata name="Subsystem.Финансы.CommandInterface" id="02d4e175-d98d-4f48-89b8-61351535e9d4.1" configVersion="fd91531dbd74984ba5bea16d95345c9200000000"/>
 		<Metadata name="Subsystem.Финансы.Subsystem.Банк" id="ce4b9c6b-3a24-4d10-beb2-34f9b2b5017e" configVersion="434b5263df3a0e41a368fbdcc1cfd89000000000"/>
 		<Metadata name="Subsystem.Финансы.Subsystem.Банк.CommandInterface" id="ce4b9c6b-3a24-4d10-beb2-34f9b2b5017e.1" configVersion="bd9b2261535ba046887ec625b8fe9a3d00000000"/>
 		<Metadata name="WebService.MAExchange" id="f5b4c121-5c69-4a35-8768-edd0500528ad" configVersion="5e12bd084da8e44f99bbc78b25db66a300000000">
