@@ -152,6 +152,13 @@
 							<ContextMenu name="ТоварыАртикулКонтекстноеМеню" id="28"/>
 							<ExtendedTooltip name="ТоварыАртикулExtendedTooltip" id="50"/>
 						</InputField>
+						<InputField name="ТоварыЕдиницаИзмерения" id="68">
+							<DataPath>Объект.Товары.ЕдиницаИзмерения</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ТоварыЕдиницаИзмеренияКонтекстноеМеню" id="69"/>
+							<ExtendedTooltip name="ТоварыЕдиницаИзмеренияРасширеннаяПодсказка" id="70"/>
+						</InputField>
 						<InputField name="ТоварыЦена" id="12" DisplayImportance="Usual">
 							<DataPath>Объект.Товары.Цена</DataPath>
 							<EditMode>EnterOnInput</EditMode>
