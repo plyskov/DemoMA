@@ -240,6 +240,8 @@
 								<InputField name="ТоварыЕдиницаИзмерения" id="87">
 									<DataPath>Объект.Товары.ЕдиницаИзмерения</DataPath>
 									<EditMode>EnterOnInput</EditMode>
+									<Width>12</Width>
+									<HorizontalStretch>false</HorizontalStretch>
 									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 									<ContextMenu name="ТоварыЕдиницаИзмеренияКонтекстноеМеню" id="88"/>
 									<ExtendedTooltip name="ТоварыЕдиницаИзмеренияРасширеннаяПодсказка" id="89"/>
